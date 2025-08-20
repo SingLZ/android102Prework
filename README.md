@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[![Video Title](http://img.youtube.com/vi/z2L8mTyfDhE/0.jpg)](https://www.youtube.com/watch?v=z2L8mTyfDhE)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Youtube  
