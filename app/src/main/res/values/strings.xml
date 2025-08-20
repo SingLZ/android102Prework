@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="introMessage">Hello World! My name is Sing and I work at a cake shop. I love to eat cakes.</string>
+    <string name="say_hello">Say Hello</string>
+</resources>
